@@ -1,2 +1,2 @@
 # nettools
-Docker container with Alpine Linux and vairous tools for network diagnostic
+Docker container with Alpine Linux and various tools for network diagnostic.
